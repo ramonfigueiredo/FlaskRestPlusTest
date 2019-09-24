@@ -1,8 +1,2 @@
-Flask
-Flask-Bcrypt
-Flask-Migrate
-flask-restplus
-Flask-Script
-Flask-SQLAlchemy
-Flask-Testing
-PyJWT
+Flask==1.1.1
+flask_restplus==0.13.0
