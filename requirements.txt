@@ -3,6 +3,6 @@ Flask-Bcrypt==0.7.1
 Flask-Migrate==2.1.1
 flask_restplus==0.13.0
 Flask-SQLAlchemy==2.3.2
-PyJWT==1.6.0
+PyJWT==2.4.0
 Flask-Script==2.0.6
 Flask-Testing
